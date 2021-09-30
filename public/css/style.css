@@ -1,0 +1,17 @@
+body {
+  margin: 0 4em 0 2em;
+  display: flex;
+}
+
+main {
+  flex: 1;
+}
+
+canvas {
+  border: 1px #cdcdcd solid;
+  border-radius: 3px;
+}
+
+.errors {
+  color: #880000;
+}
